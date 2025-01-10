@@ -1,0 +1,35 @@
+.navbar {
+    /* width: 1200px; */
+    height: 80px;
+    margin:auto;
+    padding: 10px;
+  }
+
+  .navbar p{
+    padding: 10px;
+    font-size: 20px;
+  }
+
+  .title {
+    margin-left: 20px;
+    font-size: 35px;
+    color: navy;
+
+  }
+  
+  .links {
+    margin-right: 20px;
+    align-items: center;
+
+  }
+  
+  .links a {
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 25px;
+  }
+
+  .links a:hover{
+    font-weight: bold;
+  }
+
