@@ -25,7 +25,7 @@ export default function Login() {
     <>
       <div className="container">
         <div className="leftBox">
-          <div className="title">Social React</div>
+          <div className="title">My Space</div>
           <br></br>{" "}
           <div className="tagLine">Represent your self everywhere.</div>
         </div>
