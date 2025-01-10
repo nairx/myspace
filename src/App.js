@@ -29,7 +29,7 @@ function App() {
             </div>
             <div className="App-content">
               <Routes>
-                <Route index path={`${PATH}/`} element={<Home />} />
+                <Route index path={`${PATH}/`} element={<Post />} />
                 <Route path={`${PATH}/post`} element={<Post />} />
                 <Route path={`${PATH}/album`} element={<Album />} />
               </Routes>

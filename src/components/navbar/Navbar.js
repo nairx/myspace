@@ -14,11 +14,11 @@ export default function Navbar() {
     <div className="navbar">
      
       <p>
-        <Link to={`${PATH}/`}> Home </Link>
+        <Link to={`${PATH}/post`}> Home </Link>
       </p>
-      <p>
+      {/* <p>
         <Link to={`${PATH}/post`}> Post </Link>
-      </p>
+      </p> */}
       <p>
         <Link to={`${PATH}/album`}> Album </Link>
       </p>
